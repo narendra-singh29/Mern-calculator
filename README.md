@@ -2,8 +2,6 @@
 
 A calculator project built with React.
 
-![Calculator Screenshot](https://i.imgur.com/O3CKScM.gif)
-
 ## Features
 
 1. Add, subtract, multiply, divide
@@ -14,15 +12,6 @@ A calculator project built with React.
 6. Format larger numbers
 7. Output resize based on length
 
-## Installation
-
-1. `git clone https://github.com/SagarDuttaSays/Calculator.git`
-
-2. `cd calculator`
-
-3. `npm install`
-
-4. `npm start`
 
 ## Contributions
 
